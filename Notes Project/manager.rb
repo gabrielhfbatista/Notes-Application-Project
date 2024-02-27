@@ -19,7 +19,6 @@ class Manager
             p "No Entries Found".center(50, "-")
         end
         entries.each_with_index do |item,index|
-            #p item
         end
     end
 
